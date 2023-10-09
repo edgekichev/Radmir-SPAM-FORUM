@@ -1,0 +1,12 @@
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\RadmirSpammer.exe
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\selenium-manager\linux\selenium-manager
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\selenium-manager\macos\selenium-manager
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\selenium-manager\windows\selenium-manager.exe
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\RadmirSpammer.dll
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\RadmirSpammer.deps.json
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\RadmirSpammer.runtimeconfig.json
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\RadmirSpammer.pdb
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\BoDi.dll
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\Newtonsoft.Json.dll
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\OpenPop.dll
+E:\Файлы\Repos\RadmirSpammer\RadmirSpammer\bin\Release\net7.0-windows\publish\WebDriver.dll
